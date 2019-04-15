@@ -4,7 +4,8 @@ Matlab directory for simulating wave scattering by polygons in two dimensions vi
 standard piecewise polynomial approximation spaces.
 
 Currently only time-harmonic sound-soft scattering is supported, see example script
-exampleScatteringSoundSoft.m
+exampleScatteringSoundSoft.m Such a scattering problem looks like this:
+![scatteringSoundSoft](https://user-images.githubusercontent.com/13260045/56150538-09329d80-5fa7-11e9-8424-cb3f293124bb.png)
 
 ## To do:
 1. Convolution quadrature for transient waves
@@ -12,3 +13,4 @@ exampleScatteringSoundSoft.m
 2. Transmission problems
 
 3. Sound-hard boundary conditions
+
