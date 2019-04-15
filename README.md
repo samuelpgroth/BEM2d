@@ -5,7 +5,7 @@ standard piecewise polynomial approximation spaces.
 
 Currently only time-harmonic sound-soft scattering is supported, see example script
 exampleScatteringSoundSoft.m Such a scattering problem looks like this:
-![scatteringSoundSoft](https://user-images.githubusercontent.com/13260045/56150538-09329d80-5fa7-11e9-8424-cb3f293124bb.png)
+![soundSoftHexagon](https://user-images.githubusercontent.com/13260045/56150911-df2dab00-5fa7-11e9-88b0-688ac5aaf49f.png)
 
 ## To do:
 1. Convolution quadrature for transient waves
