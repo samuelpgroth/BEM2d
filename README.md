@@ -3,7 +3,8 @@
 Matlab directory for simulating wave scattering by polygons in two dimensions via Galerkin boundary element using 
 standard piecewise polynomial approximation spaces.
 
-Currently only time-harmonic sound-soft scattering is supported.
+Currently only time-harmonic sound-soft scattering is supported, see example script
+exampleScatteringSoundSoft.m
 
 ## To do:
 1. Convolution quadrature for transient waves
